@@ -3,10 +3,10 @@
 Proyecto académico desarrollado como parte de la materia **Modelos y Métodos para el Desarrollo de Software**, UVM - Campus Querétaro.
 
 ## Equipo:
-- Raúl Pichardo
-- Marco Irepan
-- Mariana
-- Julio
+- Raúl Pichardo Manzano
+- Marco Irepan Enciso Benítez
+- Mariana Lizbeth Uribe León
+- Julio César Pérez Montiel
 
 ## Objetivo:
 Crear una interfaz gráfica en Python que permita:
